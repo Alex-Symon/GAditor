@@ -1,0 +1,6 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\ShapesLibrary\obj\Debug\ShapesLibrary.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\ShapesLibrary\obj\Debug\ShapesLibrary.pdb

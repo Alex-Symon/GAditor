@@ -1,0 +1,13 @@
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2.0.csprojAssemblyReference.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2._0.Form1.resources
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2._0.Properties.Resources.resources
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2.0.csproj.GenerateResource.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2.0.csproj.CoreCompileInputs.cache
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\bin\Debug\OOPDRAW2.0.exe.config
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\bin\Debug\OOPDRAW2.0.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\bin\Debug\OOPDRAW2.0.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\bin\Debug\ShapesLibrary.dll
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\bin\Debug\ShapesLibrary.pdb
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2.0.csproj.CopyComplete
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2.0.exe
+C:\Users\kylle\OneDrive\Desktop\ISM курси\Graf\OOPDRAW2.0\OOPDRAW2.0\obj\Debug\OOPDRAW2.0.pdb
